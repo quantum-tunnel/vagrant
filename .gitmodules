@@ -1,0 +1,3 @@
+[submodule "ansible-playbooks"]
+	path = ansible
+	url = https://github.com/quantum-tunnel/ansible-playbooks
